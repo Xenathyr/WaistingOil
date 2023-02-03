@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c6ec7494ce825041ac441882b4ce23a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inventory: {instanceID: 0}
+  - textLootGroup: {fileID: 7444641560562894936, guid: d45baf1d0be00974cb3d74ec35623fe4,
+      type: 3}
+  - timeBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
